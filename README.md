@@ -6,5 +6,5 @@ Upon a successful update, the program connects to a SQL database and logs the us
  #### File Selection <br/>
 ![Selection](https://s3.amazonaws.com/github-public-wiki-images/WPFFMPRSELECTION.png)
 <br/>
- ##### Download Progress indicator <br/>
+ ##### Asynchronous Download Progress Indicator <br/>
 ![Selection](https://s3.amazonaws.com/github-public-wiki-images/WPFFMPRDWNLDPROGRESS.png)
