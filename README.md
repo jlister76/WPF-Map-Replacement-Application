@@ -4,7 +4,7 @@ Upon a successful update, the program connects to a SQL database and logs the us
 
  ### Screen-shots <br/>
  #### File Selection <br/>
-![Selection](https://s3.amazonaws.com/github-public-wiki-images/WPFFMPRSELECTION.png)
+![alt text](https://s3.amazonaws.com/github-public-wiki-images/WPFFMPRSELECTION.png "File Selection")
 <br/>
  ##### Asynchronous Download Progress Indicator <br/>
 ![Selection](https://s3.amazonaws.com/github-public-wiki-images/WPFFMPRDWNLDPROGRESS.png)
